@@ -1,4 +1,4 @@
 project_shediao
 ===============
-Chenrui Cao
+Chenrui Cao\n
 Litie Zhu
