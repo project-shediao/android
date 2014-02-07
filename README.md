@@ -1,4 +1,7 @@
-project_shediao
-===============
-Chenrui Cao\n
+=======
+android
+=======
+Xiaoman Pan 
+Mike Xie
 Litie Zhu
+Chenrui Cao
