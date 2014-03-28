@@ -1,6 +1,7 @@
 package com.example.shediao;
 
 import android.os.Bundle;
+import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Handler;
 import android.content.Intent;
@@ -13,6 +14,8 @@ public class SplashActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_splash);
+		ActionBar actionBar = getActionBar();
+		actionBar.hide();
 		startMainActivity();
 	}
 

@@ -64,6 +64,7 @@
         android:minHeight="24dp"
         android:minWidth="32dp"
         android:text="@string/signup_button"
-        android:textSize="12sp" />
+        android:textSize="12sp"
+        android:onClick="toSignUp" />
 
 </RelativeLayout>
